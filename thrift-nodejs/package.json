@@ -1,0 +1,12 @@
+{
+  "name": "by-accessibility-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "thrift": "^0.11.0"
+  }
+}
