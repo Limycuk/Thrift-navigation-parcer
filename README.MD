@@ -9,3 +9,21 @@ Example of implementation [Apache Thrift](https://thrift.apache.org/).
 
 [Link to the lines that set up Thrift on server side](https://github.com/Limycuk/Thrift-navigation-parcer/blob/master/nodejs/index.js#L31)  
 [Link to the line that handles the parserService on client side](https://github.com/Limycuk/Thrift-navigation-parcer/blob/master/nodejs/index.js#L6)
+
+Guide for running example
+
+### `git clone git@github.com:Limycuk/Thrift-navigation-parcer.git`
+
+### `cd Thrift-navigation-parcer/js`
+
+### `npm install`
+
+### `npm start`
+
+Open second terminal
+
+### `cd Thrift-navigation-parcer/nodejs`
+
+### `npm install`
+
+### `npm start`
